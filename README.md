@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chris-devel0per
-- 👀 I’m a web-developer and my main language is PHP and I try to find Js alternatives in css 
+- 👀 I’m a web-developer and IT Security Enthusiast
 - 📫 You can reach me via discord under skiddybison5924
 
 <!---
